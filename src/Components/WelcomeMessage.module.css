@@ -1,0 +1,10 @@
+.Welcome{
+  font-size: 30px;
+  margin-top: 50px;
+  font-weight: 800;
+  font-family: cursive;
+  border: 2px solid blueviolet;
+  width: 500px;
+  border-radius: 5px;
+  background-color: rgba(128, 128, 128, 0.281);
+}
